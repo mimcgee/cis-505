@@ -43,6 +43,7 @@ try
 catch
 finally
 Defensive Programming
+
 Repository Overview
 Carefully read the assigned chapters, videos, and narrative I've included under each module.
 
